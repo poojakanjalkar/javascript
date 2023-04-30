@@ -10,9 +10,23 @@ function printArrayElement(x){
   }
 }
 //printArrayElement(a);
-console.log(a.push("h","i","j"));
+// console.log(a.push("h","i","j"));
 
-console.log(a.sort());
-for(let n=0;n<=a.length;n++){
-  console.log(a[n]);
-}
+// console.log(a.sort());
+// for(let n=0;n<=a.length;n++){
+//   console.log(a[n]);
+// }
+
+
+
+let b=[20,16,100,2,3,1,8,50,76,89,51,45,13,51,55,97]
+
+
+
+
+// let c=[]
+// b.forEach(element=>{
+//   c.push(element+2)
+
+// })
+// console.log(c);
