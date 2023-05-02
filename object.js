@@ -45,5 +45,6 @@ function generateArray(x){
   return final
 
 }
-let generatedArray1=generateArray(5)
+let generatedArray1=generateArray(20)
 console.log(generatedArray1)
+
